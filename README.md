@@ -3,7 +3,7 @@
 A new Flutter project.
 
 ## Getting Started
-<img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="40" height="40" />
+<img src="assets/a.gif" width="360" height="720" />
 
 This project is a starting point for a Flutter application.
 
